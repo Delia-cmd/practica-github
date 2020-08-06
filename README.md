@@ -1,1 +1,2 @@
 # practica-github
+Bueno me pareció muy interesante sobre todo el tema de clonar el proyecto y tambien el tema de los codigos ya que con esos codigos podemos ejecutar por ejemplo el codigo git status nos permite ver los estados cambios o modificaciones.
